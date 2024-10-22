@@ -25,6 +25,8 @@ pip install numpy matplotlib pillow
 
 ## Explanation
 
+Our dataset consists of vectors **x**, each of dimension **1 × (m × n)**, where **m** and **n** are the height and width of the images, respectively. The weight matrix is computed as the outer product of these vectors.
+
 The weight matrix is defined as:
 
 $$

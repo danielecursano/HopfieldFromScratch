@@ -26,6 +26,7 @@ pip install numpy matplotlib pillow
 ## Explanation
 
 The weight matrix is defined as:
+
 $$
 \mathbf{W} = \sum_{i=1}^{N} \mathbf{x}_i \mathbf{x}_i^T \ .
 $$
